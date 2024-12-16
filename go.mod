@@ -1,4 +1,4 @@
-module home/safetyduck/grpc
+module github.com/SafetyDuck5676/grpc
 
 go 1.22
 
